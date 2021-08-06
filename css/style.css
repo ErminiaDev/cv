@@ -126,9 +126,13 @@ img {
 }
 
 #col-droite a,
-#col-droite h3,
-#col-droite p {
+#experience h3,
+#experience p {
     display: inline-block;
+}
+
+#experience p {
+    margin: 0.5em 0;
 }
 
 #col_droite h2 i {
@@ -174,6 +178,7 @@ i.fas.fa-globe {
 .description {
     display: flex;
     justify-content: space-between;
+    padding-top: 1em;
 }
 
 .uppercase {     
