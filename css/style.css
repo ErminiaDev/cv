@@ -125,7 +125,9 @@ img {
     border-bottom: 2px solid #90CAF9;
 }
 
-#col-droite a, h3, p {
+#col-droite a,
+#col-droite h3,
+#col-droite p {
     display: inline-block;
 }
 
