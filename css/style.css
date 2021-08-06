@@ -131,7 +131,7 @@ img {
     display: inline-block;
 }
 
-#experience p {
+#experience .detail p {
     margin: 0.5em 0;
 }
 
