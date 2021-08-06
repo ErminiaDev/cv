@@ -125,6 +125,10 @@ img {
     border-bottom: 2px solid #90CAF9;
 }
 
+#col-droite a, h3, p {
+    display: inline-block;
+}
+
 #col_droite h2 i {
     color: #90CAF9;
 }
